@@ -25,6 +25,8 @@ Originally from Novi Sad, Serbia.
 - Empire: Breakout CTF - VulnHub machine writeup
 - Malware Analysis - SOC analyst reports via Any.run sandbox
 - BalkanPuppyHub - full website build(HTML/CSS/JS)
+- QuickLaunchApp — Android app built with Flutter for quick app launching and brightness control
+  (C++/Flutter)
 
 - ## Goals
 - OSCP certification
