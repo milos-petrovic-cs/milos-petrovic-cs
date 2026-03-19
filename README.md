@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hi, I'm Milos Petrovic 👋
 
-<!--
-**milos-petrovic-cs/milos-petrovic-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS student at Evangel Univeristy with a focus on cybersecurity and penetration testing.
+Originally from Novi Sad, Serbia. 
 
-Here are some ideas to get you started:
+## About me
+- CS Freshman @ Evangel University, Springfield MO
+- Focused on offensive security & penetration testing
+- Currently studying for CompTIA Security+
+- Evangel University Tennis Team
+- From Novi Sad, Serbia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## Skills
+- Languages: C++, Python, Bash
+- Tools: Kali Linux, Burp Suite, Nmap, Metasploit, Wireshark
+- Platforms: TryHackMe, HackTheBox, DVWA
+- Other: WSL2, Git, Linux CLI
+
+- ## Certifications
+- CompTIA Security+ (in progress)
+- eJPT (planned)
+- OSCP (planned)
+
+- ## Projects
+- Empire: Breakout CTF - VulnHub machine writeup
+- Malware Analysis - SOC analyst reports via Any.run sandbox
+- BalkanPuppyHub - full website build(HTML/CSS/JS)
+
+- ## Goals
+- OSCP certification
+- SOC Analyst role → Penetration Tester
+- SANS MS in Information Security Engineering
+
+- ## Connect
+- [LInkedIn](https://www.linkedin.com/in/milos-petrovic-cs)
